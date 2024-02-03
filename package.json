@@ -1,12 +1,12 @@
 {
   "name": "js-env-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ENV Managing CLI tool",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "env-manager": "./dist/main.js"
+    "js-env-manager": "./dist/main.js"
   },
   "author": "",
   "license": "MIT",
